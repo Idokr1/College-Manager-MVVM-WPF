@@ -5,5 +5,3 @@ This is a desktop application that allows college administrators to manage stude
 * Add, edit, and delete student records and courses
 * Add, edit, and delete teacher records and courses
 * Set teacher as the teacher of a student and the opposite
-
-
